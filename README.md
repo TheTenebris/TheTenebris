@@ -4,16 +4,6 @@
 
 ###
 
-<h6 align="center">ᴠɪꜱɪᴛᴏʀꜱ :</h6>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/TheTenebris/count.svg?"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />

@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/MainEvil/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/TheTenebris/count.svg?"  />
 </div>
 
 ###
@@ -51,17 +51,17 @@
 
 <h2 align="center">🏆 ɢɪᴛʜᴜʙ ᴛʀᴏᴘʜɪᴇꜱ</h2>
 <img align="center"
-  src="https://github-profile-trophy.vercel.app/?username=MainEvil&theme=juicyfresh&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true"
+  src="https://github-profile-trophy.vercel.app/?username=TheTenebris&theme=juicyfresh&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true"
   width="100%" />
 <br />
 
-## 📊 ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ <img align="right" src="https://img.shields.io/github/stars/MainEvil?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/MainEvil?tab=followers"><img align="right" src="https://img.shields.io/github/followers/MainEvil?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/MainEvil">  <img align="right" src="https://komarev.com/ghpvc/?username=MainEvil"></a>
+## 📊 ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ <img align="right" src="https://img.shields.io/github/stars/TheTenebris?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/TheTenebris?tab=followers"><img align="right" src="https://img.shields.io/github/followers/TheTenebris?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/TheTenebris">  <img align="right" src="https://komarev.com/ghpvc/?username=TheTenebris"></a>
 <p>
   <img align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainEvil&langs_count=8&theme=react" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheTenebris&langs_count=8&theme=react" />
 </p>
-<a href="https://github.com/MainEvil"><img alt="MainEvil's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=MainEvil&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MainEvil&theme=black-ice"
-    alt="MainEvil" /></p>
+<a href="https://github.com/TheTenebris"><img alt="TheTenebris's Github Stats"
+    src="https://github-readme-stats.vercel.app/api?username=TheTenebris&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheTenebris&theme=black-ice"
+    alt="TheTenebris" /></p>
 <br />
